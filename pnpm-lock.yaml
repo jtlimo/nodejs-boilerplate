@@ -15,6 +15,9 @@ importers:
       '@tsconfig/recommended':
         specifier: ^1.0.6
         version: 1.0.6
+      '@types/node':
+        specifier: ^20.12.12
+        version: 20.12.12
       jest:
         specifier: ^29.7.0
         version: 29.7.0(@types/node@20.12.12)(ts-node@10.9.2(@types/node@20.12.12)(typescript@5.4.5))
